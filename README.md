@@ -1,7 +1,9 @@
 # BlockChain Example
 
 ### Tecnologias Utilizadas
+
 Linguagem: TypeScript
+
 Framework: Node.js
 
 ## Instalação e Uso
@@ -25,7 +27,9 @@ npm install
 Rodando o projeto:
 
 Primeiro parâmetro é a dificuldade de mineração, padrão é 4.
+
 Segundo parâmetro é o número de blocos de mineração, padrão é 10
+
 ```bash
 npm start -- 4 200
 ```
